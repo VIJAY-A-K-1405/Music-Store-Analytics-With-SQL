@@ -5,6 +5,15 @@ This project is for beginners and will teach you how to analyze the music playli
 
 > Complete project explained on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7152235761596043264/
 
+ ## Contact Information
+
+Connect with me on LinkedIn: [VIJAY ASHOK KARLAWAD](https://www.linkedin.com/in/vijayashokkarlawad/)
+
+For inquiries, reach out via email: vijaykarlawad1416@gmail.com
+
+Thank you for exploring this project! 
+Feedback and suggestions are appreciated!  
+
 ## Database and Tools
 * Postgre SQL
 * PgAdmin4
