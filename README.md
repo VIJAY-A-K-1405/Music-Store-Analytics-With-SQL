@@ -3,7 +3,7 @@ This project involves conducting data analysis on a digital music store using Po
 
 This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
-> Complete project explained on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7152235761596043264/
+> **Complete project explained on LinkedIn:** https://www.linkedin.com/posts/vijayashokkarlawad_sqlqueries-sql-dataanalytics-activity-7152235761596043264-nNSc?utm_source=share&utm_medium=member_desktop
 
  ## Contact Information
 
